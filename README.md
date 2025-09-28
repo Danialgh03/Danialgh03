@@ -1,5 +1,26 @@
-## Hi there 👋
+# Hello, I'm Danial Ghowth 👋
 
+## About me
+A Data Engineer at Sahpam concurrently engaged in technical and vocational studies at the National University of Skill (NUS).
+
+## Tech Stack
+- **Languages:** Python, Rust, Sql
+- **Frameworks:**
+- **Tools:** Docker, Git, Linux, Databricks
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danialgh03&show_icons=true&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialgh03&layout=compact&theme=radical" />
+</div>
+## Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialghowth03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danial-ghowth-92a23a377)
 <!--
 **Danialgh03/Danialgh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
